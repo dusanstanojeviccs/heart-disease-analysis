@@ -1,4 +1,4 @@
-Heart Disease Analysis
+# Heart Disease Analysis
 
 A simple repository showing the use of a neural network for a classification task.
 
